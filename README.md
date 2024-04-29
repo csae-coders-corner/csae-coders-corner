@@ -1,4 +1,4 @@
-Welcome to the CSAE's Coders Corner on Github.
+Welcome to the CSAE's Coders Corner on GitHub.
 
 Having trouble with Stata or MATLAB? Looking for useful tips on handling your data, exporting graphs or writing code? Then you've come to the right place.
 
